@@ -4,3 +4,11 @@
 .btn:hover{
 	background-color: purple;
 }
+h1{
+	font-size: 7rem;
+}
+.mount{
+	text-align: center;
+	font-weight: bold;
+	font-size: 3rem;
+}
